@@ -26,13 +26,6 @@ DEDSEC_INSTADUMP is a Linux-based tool designed to generate personalized Instagr
 * Parrot OS 
 * Ubuntu
 
-### LANGUAGE 
-* Python
-* HTML
-* Css
-* Javascript
-
-
 ## Support
 
 If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
