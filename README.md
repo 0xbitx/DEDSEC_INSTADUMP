@@ -17,9 +17,14 @@ DEDSEC_INSTADUMP is a Linux-based tool designed to generate personalized Instagr
     * sudo ./dedsec_instadump
 
 ### HOW TO GET SESSION ID
-    1. [] server.
-    2. [Settings]  name to open the server settings.
-    3. [Integrations] option from the left-hand menu.
+      1. Log in to your Instagram account.
+      2. Right-click and select 'Inspect'
+      3. Choose the 'Storage' tab.
+      4. Copy the value of the 'sessionid'
+      
+<p align="center">
+<img src="https://i.imgur.com/1KO1sGP.png", width="1000", height="1000">
+</p>
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
