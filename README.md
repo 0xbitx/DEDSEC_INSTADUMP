@@ -12,9 +12,9 @@ DEDSEC_INSTADUMP is a Linux-based tool designed to generate personalized Instagr
 
     * git clone https://github.com/0xbitx/DEDSEC_INSTADUMP.git
     * cd DEDSEC_INSTADUMP
-    * sudo pip3 install pystyle
+    * pip3 install pystyle toutatis pycountry
     * chmod +x dedsec_instadump
-    * sudo ./dedsec_instadump
+    * ./dedsec_instadump
 
 ### HOW TO GET SESSION ID
       1. Log in to your Instagram account.
